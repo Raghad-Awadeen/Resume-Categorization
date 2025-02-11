@@ -13,7 +13,7 @@ This project aims to:
 ## 📂 Dataset  
 The dataset consists of raw resumes, which need to be processed and categorized.  
 
-🔗 **Access the dataset here:** [Resume Dataset](https://drive.google.com/file/d/1guhzoPGmjK3fQIunhPHu65o-VUj4ZK64/view?usp=sharing)  
+🔗 **Access the dataset here:** [Student Depression](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)  
 
 ---
 
